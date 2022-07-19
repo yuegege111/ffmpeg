@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 今天咕了吗
+tagline: 这里是月鸽鸽的个人笔记
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
